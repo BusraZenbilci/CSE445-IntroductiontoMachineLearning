@@ -1,5 +1,5 @@
 """
-@author: Büsra Zenbilci  -  Medetkan Kutlu
+@author: Büsra Zenbilci 
 @date:  04.01.2024
 """
 
