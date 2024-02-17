@@ -1,4 +1,4 @@
-## author: Busra Zenbilci - Gulsum Simge Bozdogan
+## author: Busra Zenbilci 
 ## date: 04.12.2023
 
 
