@@ -1,7 +1,7 @@
 # CSE445-IntroductiontoMachineLearning
 Machine Learning Homework Projects Contents
 
-## Homework 1:  
+### Homework 1:  
 Maximum Likelihood Estimation (MLE)  
 Polynomial Regression  
 Ridge Regression on MNIST  
